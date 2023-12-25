@@ -1,10 +1,11 @@
+≈y
 <Html>  
 <head>   
 <title>  
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Ble">  
+<body bgcolor="Blue">  
 <br>  
 <br>  
 <form>  
