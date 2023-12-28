@@ -5,7 +5,7 @@
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Pink">  
+<body bgcolor="Red">  
 <br>  
 <br>  
 <form>  
@@ -37,7 +37,7 @@ Gender :
 </label><br>  
 <input type="radio" name="male"/> Male <br>  
 <input type="radio" name="female"/> Female <br>  
-<input type="radio" name="children"/> Childred  
+<input type="radio" name="others"/> Others  
 <br>  
 <br>  
   
